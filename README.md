@@ -1,8 +1,8 @@
 ```markdown
 # 🥿 ООО «Обувь» — Система управления складом и заказами
 
-[![Quality](https://qlty.sh/gh/quiteajob/projects/obuv_project/badge.svg)]
-[![Pylint](https://img.shields.io/badge/Pylint-9.34%2F10-brightgreen)]
+[![Quality](https://img.shields.io/badge/Quality-Excellent-brightgreen)](https://qlty.sh/gh/quiteajob/projects/obuv_project)
+[![Pylint](https://img.shields.io/badge/Pylint-9.34_10-brightgreen)](https://github.com/quiteajob/obuv_project)
 
 Приложение на Python (Tkinter) для автоматизации работы магазина обуви: учёт товаров, управление заказами, пункты выдачи, роли пользователей.
 
