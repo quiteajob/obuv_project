@@ -1,6 +1,9 @@
 ```markdown
 # 🥿 ООО «Обувь» — Система управления складом и заказами
 
+[![Quality](https://qlty.sh/gh/quiteajob/projects/obuv_project/badge.svg)]
+[![Pylint](https://img.shields.io/badge/Pylint-9.34%2F10-brightgreen)]
+
 Приложение на Python (Tkinter) для автоматизации работы магазина обуви: учёт товаров, управление заказами, пункты выдачи, роли пользователей.
 
 ---
@@ -52,6 +55,9 @@ obuv_project/
 │   ├── authorization_flowchart.pdf   # Блок-схема (ГОСТ 19.701-90)
 │   ├── database_diagram.pdf          # ER-диаграмма базы данных
 │   └── module2_screenshots.docx      # Скриншоты корректной работы системы
+│
+├── .flake8                     # Конфигурация линтера Flake8
+├── .pylintrc                   # Конфигурация линтера Pylint
 │
 └── README.md                   # Этот файл
 ```

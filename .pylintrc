@@ -1,0 +1,31 @@
+[MASTER]
+extension-pkg-whitelist=
+ignore=__pycache__
+
+[MESSAGES CONTROL]
+disable=
+    missing-module-docstring,
+    missing-function-docstring,
+    missing-class-docstring,
+    too-few-public-methods,
+    too-many-branches,
+    too-many-statements,
+    too-many-locals,
+    too-many-instance-attributes,
+    too-many-arguments,
+    too-many-public-methods,
+    consider-using-f-string,
+    broad-except
+
+[FORMAT]
+max-line-length=120
+indent-string='    '
+
+[DESIGN]
+max-args=10
+max-locals=20
+max-returns=6
+max-branches=20
+max-statements=60
+max-attributes=15
+max-public-methods=25

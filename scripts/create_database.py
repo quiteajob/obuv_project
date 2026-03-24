@@ -1,7 +1,6 @@
 import sqlite3
 from pathlib import Path
 
-
 # Путь к базе данных
 DB_PATH = Path(__file__).parent.parent / "database" / "obuv.db"
 DB_PATH.parent.mkdir(exist_ok=True)
